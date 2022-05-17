@@ -1,7 +1,8 @@
 
 import java.util.ArrayList;
 import java.util.Scanner;
-
+//Juan Lorthiois 18771
+//HDT9 AED
 public class Main {
 
 	
